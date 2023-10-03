@@ -1,0 +1,4 @@
+﻿"acTubeOD"= 300mm
+"acTubeThickness"= 3mm
+"acTubeLength"= 300mm"threadedRodDiam"= 8mm"flange width"= 24mm
+"elecPlateThick"= 2mm
